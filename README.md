@@ -5,7 +5,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/AshbornXS?label=Follow&style=social)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AshbornXS)
 
-[![Discord Presence](https://lanyard.kyrie25.me/api/473643981151010816?idleMessage=Messing Around...)](https://discord.com/users/473643981151010816)
+[![Discord Presence](https://lanyard.kyrie25.me/api/473643981151010816?idleMessage=Messing%20Around...)](https://discord.com/users/473643981151010816)
     
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
     
