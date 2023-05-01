@@ -7,7 +7,7 @@
 
 [![Discord Presence](https://lanyard.kyrie25.me/api/473643981151010816)](https://discord.com/users/473643981151010816)
     
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AshbornXS&repo=RAE&theme=gruvbox&locale=pt-BR)](https://github.com/AshbornXS/RAE)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AshbornXS&repo=RAE&theme=gruvbox&locale=pt-BR&hide_border=true)](https://github.com/AshbornXS/RAE)
     
 ### :fire: My Stats :
 <details>
@@ -19,7 +19,7 @@
 </p>
 </details>
     
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
     
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
