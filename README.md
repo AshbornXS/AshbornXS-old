@@ -5,7 +5,9 @@
 ![GitHub followers](https://img.shields.io/github/followers/AshbornXS?label=Follow&style=social)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AshbornXS)
 
-[![Discord Presence](https://lanyard.kyrie25.me/api/473643981151010816)](https://discord.com/users/473643981151010816)
+[![Discord Presence](https://lanyard.kyrie25.me/api/473643981151010816&idleMessage=Messing Around...)](https://discord.com/users/473643981151010816)
+    
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
     
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AshbornXS&repo=RAE&theme=gruvbox&locale=pt-BR&hide_border=true)](https://github.com/AshbornXS/RAE)
     
@@ -18,8 +20,6 @@
     <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshbornXS&hide=html,&hide_border=true&theme=gruvbox&locale=pt-BR">
 </p>
 </details>
-    
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
     
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
