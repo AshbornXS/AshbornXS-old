@@ -7,6 +7,8 @@
 
 [![Discord Presence](https://lanyard.kyrie25.me/api/473643981151010816)](https://discord.com/users/473643981151010816)
     
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AshbornXS&repo=RAE)](https://github.com/AshbornXS/RAE)
+    
 ### :fire: My Stats :
 <details>
 <summary>Click for GitHub Stats</summary>
