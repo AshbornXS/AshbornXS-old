@@ -10,12 +10,9 @@
 </p>
     
 </br>
-    
-<p align="center">
-    <img alt = "Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=AshbornXS&repo=RAE&theme=gruvbox&locale=pt-BR&hide_border=true">
-</p>
 
-    
+<img alt = "Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=AshbornXS&repo=RAE&theme=gruvbox&locale=pt-BR&hide_border=true">
+
 <img alt = "Jokes Card" src="https://readme-jokes.vercel.app/api?hideBorder">
     
 ### :fire: My Stats :
