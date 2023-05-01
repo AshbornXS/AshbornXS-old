@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&color=101010)](https://t.me/AshbornXS)
-[![Twitter Follow!](https://img.shields.io/twitter/follow/AshbornXS?label=Me%20Siga&color=101010)](https://twitter.com/intent/follow?screen_name=AshbornXS)
+[![Twitter Follow!](https://img.shields.io/badge/Twitter-%231DA1F2.svg?label=Me%20Siga&color=101010)](https://twitter.com/intent/follow?screen_name=AshbornXS)
 ![GitHub followers](https://img.shields.io/github/followers/AshbornXS?label=Follow&style=social&color=101010)
 
 <img alt = "Discord" src="https://lanyard.kyrie25.me/api/473643981151010816?idleMessage=Messing%20Around...">
