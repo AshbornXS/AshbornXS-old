@@ -9,8 +9,6 @@
     
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
     
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AshbornXS)](https://github.com/AshbornXS/RAE)
-    
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AshbornXS&repo=RAE&theme=gruvbox&locale=pt-BR&hide_border=true)](https://github.com/AshbornXS/RAE)
     
 ### :fire: My Stats :
@@ -18,7 +16,6 @@
 <summary>Click for GitHub Stats</summary>
 <p align="left">
     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AshbornXS&show_icons=true&hide=issues&hide_border=true&theme=gruvbox&locale=pt-BR">
-    <br>
     <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshbornXS&hide=html,&hide_border=true&theme=gruvbox&locale=pt-BR">
 </p>
 </details>
