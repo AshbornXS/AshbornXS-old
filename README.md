@@ -1,4 +1,4 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, I'm Ash! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, I'm Ash! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 [![Twitter Follow!](https://img.shields.io/twitter/follow/AshbornXS?label=Me%20Siga)](https://twitter.com/intent/follow?screen_name=AshbornXS)
@@ -8,10 +8,10 @@
 <p align="center">
     <img alt = "Discord" src="https://lanyard.kyrie25.me/api/473643981151010816?idleMessage=Messing%20Around...">
     <br/>
-    <img alt = "Jokes Card" src="https://readme-jokes.vercel.app/api?hideBorder">
-    <br/>
     <img alt = "Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=AshbornXS&repo=RAE&theme=gruvbox&locale=pt-BR&hide_border=true">
 </p>
+    
+<img alt = "Jokes Card" src="https://readme-jokes.vercel.app/api?hideBorder">
     
 ### :fire: My Stats :
 <details>
