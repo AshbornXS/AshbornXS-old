@@ -49,11 +49,8 @@ NOTE: Top languages does not indicate my skill level or anything like that. It i
 <details>
 <summary>Click for GitHub Stats</summary>
 <p align="center">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AshbornXS&show_icons=true&hide=issues&hide_border=true&theme=gruvbox">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AshbornXS&show_icons=true&hide=issues&hide_border=true&theme=gruvbox&locale=pt_BR">
     <br>
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshbornXS&hide=html,&hide_border=true&theme=gruvbox">
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshbornXS&hide=html,&hide_border=true&theme=gruvbox&locale=pt_BR">
 </p>
 </details>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AshbornXS&theme=dark&background=101010)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshbornXS&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
