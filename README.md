@@ -14,7 +14,7 @@
 ### :fire: My Stats :
 <details>
 <summary>Click for GitHub Stats</summary>
-<p align="left">
+<p align="center">
     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AshbornXS&show_icons=true&hide=issues&hide_border=true&theme=gruvbox&locale=pt-BR">
     <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshbornXS&hide=html,&hide_border=true&theme=gruvbox&locale=pt-BR">
 </p>
