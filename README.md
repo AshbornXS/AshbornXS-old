@@ -3,7 +3,7 @@
 
 [![Twitter Follow!](https://img.shields.io/twitter/follow/AshbornXS?label=Me%20Siga)](https://twitter.com/intent/follow?screen_name=AshbornXS)
 ![GitHub followers](https://img.shields.io/github/followers/AshbornXS?label=Follow&style=social)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AshbornXS)
+[![Telegram](https://img.shields.io/static/v1?logo=telegram&logoColor=white)](https://t.me/AshbornXS)
 
 <img alt = "Discord" src="https://lanyard.kyrie25.me/api/473643981151010816?idleMessage=Messing%20Around...">
 
