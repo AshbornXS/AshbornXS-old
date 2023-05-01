@@ -5,9 +5,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/AshbornXS?label=Follow&style=social)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AshbornXS)
 
-<p align="center">
-    <img alt = "Discord" src="https://lanyard.kyrie25.me/api/473643981151010816?idleMessage=Messing%20Around...">
-</p>
+<img alt = "Discord" src="https://lanyard.kyrie25.me/api/473643981151010816?idleMessage=Messing%20Around...">
 
 <img alt = "Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=AshbornXS&repo=RAE&theme=gruvbox&locale=pt-BR&hide_border=true">
 
