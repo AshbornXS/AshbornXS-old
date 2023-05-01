@@ -9,6 +9,8 @@
     
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
     
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AshbornXS)](https://github.com/AshbornXS/RAE)
+    
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AshbornXS&repo=RAE&theme=gruvbox&locale=pt-BR&hide_border=true)](https://github.com/AshbornXS/RAE)
     
 ### :fire: My Stats :
