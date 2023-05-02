@@ -8,8 +8,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/AshbornXS?label=Follow&style=social)
 [![YouTube Subs](https://img.shields.io/youtube/channel/subscribers/UCFDTTzIMm4vaGvWYRIfB2Yg?label=Ashborn&style=social)](https://youtube.com/Ashborn)
 
-<img alt = "Discord" src="https://lanyard.kyrie25.me/api/473643981151010816?idleMessage=Messing%20Around...">
-
+[![Discord Presence](https://lanyard.kyrie25.me/api/473643981151010816?idleMessage=Messing%20Around...)](https://discord.com/users/473643981151010816)
+    
 <img alt = "Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=AshbornXS&repo=RAE&theme=gruvbox&locale=pt-BR&hide_border=true">
 
 </br>
