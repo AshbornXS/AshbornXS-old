@@ -1,6 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, I'm Ash! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
+<br/>
+    
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/AshbornXS)
 [![Twitter Follow!](https://img.shields.io/twitter/follow/AshbornXS?label=Me%20Siga%21&style=social)](https://twitter.com/intent/follow?screen_name=AshbornXS)
 ![GitHub followers](https://img.shields.io/github/followers/AshbornXS?label=Follow&style=social)
